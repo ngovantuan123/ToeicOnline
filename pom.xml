@@ -19,7 +19,6 @@
         <module>toeic-core-service</module>
         <module>toeic-core-service-impl</module>
         <module>toeic-core-utils</module>
-        <module>toeic-core-test</module>
         <module>toeic-web-logic</module>
         <module>toeic-core-web</module>
         <module>toeic-api-test</module>
