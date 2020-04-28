@@ -7,7 +7,7 @@
 /toeic-core-service/target
 /toeic-core-service-impl/target
 /toeic-core-test/target
-/toeic-core-utils/target
+/toeic-api-test/target
 /toeic-core-web/target
 /toeic-web/target
 /toeic-web-logic/target
